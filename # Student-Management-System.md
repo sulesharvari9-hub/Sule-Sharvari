@@ -1,18 +1,18 @@
 # Student Management System
 
-## 📌 Description
+##  Description
 This is a Java-based project using OOP concepts.
 
-## 🚀 Features
+##  Features
 - Add Student
 - Search Student
 - Delete Student
 - Display Students
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Java
 - OOP (Inheritance, Polymorphism)
 
-## ▶️ How to Run
+##  How to Run
 javac Main.java
 java Main
